@@ -1,0 +1,29 @@
+# LinkedIn Watchlist — AI x Publisher Ecosystem
+# One profile slug per line. Lines starting with # are comments.
+# Add or remove profiles anytime. Used by /ai-publisher-digest.
+
+# --- AI Content Marketplace / Licensing Thought Leaders ---
+msgmsg                          # Matthew Scott Goldstein — AI content marketplaces
+audreyschomer                   # Audrey Schomer — AI content licensing analysis
+pcsathy                         # P.C. Sathy — publisher AI deal timelines
+tejedajohn                      # John Tejeda — AI licensing reshaping media discovery
+nironirmalan                    # Niro Nirmalan — AI companies licensing publisher content
+hulbertjonathan                 # Jonathan Hulbert — OpenAI publisher deals commentary
+josemanuelanta                  # Jose Manuel Anta — AI licensing primer for publishers
+
+# --- Media / Publishing Executives ---
+campbell-brown-5a4516157        # Campbell Brown — ex-Meta news lead, TollBit
+davidesmith                     # David E. Smith — Strategic Partnerships, Content Licensing
+manishpurohit-auf               # Manish Purohit — Global Content & Licensing Executive
+davidclinch                     # David Clinch — media innovation, AI x news
+peyregne                        # Vincent Peyrègne — CEO, WAN-IFRA
+stuartforrest                   # Stuart Forrest — Global SEO Director, Bauer Media Group
+davidjbuttle                    # David Buttle — Consultant/Founder, DJB Strategies (media & publishing)
+
+# --- Journalists Covering AI x Publishing ---
+nkolar                          # Nikhil Kolar — Digiday, publisher AI deals
+jessica-davies-7507b912         # Jessica Davies — Digiday, publisher AI licensing
+simeon-raethel                  # Simeon Raethel — Google AI publisher partnerships
+
+# --- TollBit Network ---
+toshit-panigrahi-a6496076       # Toshit Panigrahi — TollBit co-founder
